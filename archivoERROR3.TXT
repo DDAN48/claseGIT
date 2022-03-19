@@ -1,0 +1,4 @@
+Inserto un texto en este archivo creado para probar como se debe
+borrar un commit que se a guardado en solo en el repositorio local 
+, en caso de que el commit se guarde en el repo remoto el procediminto y consideraciones a tener deberan ser otras
+sdda
